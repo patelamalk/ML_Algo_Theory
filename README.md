@@ -1,2 +1,3 @@
 # ML_Algo_Theory
-Math and code implementations
+
+1. Probabilty & Statistics
